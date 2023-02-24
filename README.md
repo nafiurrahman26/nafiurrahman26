@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nafiur Rahman Sabbir</h1>
 <h3 align="center">A passionate Computer Science and Engineering(CSE) student from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Java Programming**
+- 🌱 I’m currently learning **Everything**
 
 - 📫 How to reach me **nafiurrahmansabbir@gnail.com**
 
